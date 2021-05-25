@@ -1,0 +1,6 @@
+framework module Pods_Yinzcam_YinzcamUITests {
+  umbrella header "Pods-Yinzcam-YinzcamUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
